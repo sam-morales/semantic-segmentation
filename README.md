@@ -17,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sam-morales/semantic-segmentation/">
-    <img src="images/cat.png" alt="Logo" width="240" height="240">
+    <img src="images/cat.png" alt="Logo" width="300" height="240">
   </a>
 
   <h3 align="center">Semantic Segmentation Notebook</h3>
@@ -28,9 +28,9 @@
     <br />
     <a href="https://colab.research.google.com/drive/1dPU-b7ISLplrhSSTcY6jrxpo7xWnfV_E?usp=sharing">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/sam-morales/semantic-segmentation/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/sam-morales/semantic-segmentation/issues">Request Feature</a>
   </p>
 </p>
 
