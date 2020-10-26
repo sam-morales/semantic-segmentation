@@ -6,11 +6,9 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -19,7 +17,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/sam-morales/semantic-segmentation/">
-    <img src="images/cat.png" alt="Logo" width="80" height="80">
+    <img src="images/cat.png" alt="Logo" width="240" height="240">
   </a>
 
   <h3 align="center">Semantic Segmentation Notebook</h3>
@@ -117,7 +115,7 @@ Just clone the repo!
 
 ## Usage
 
-For using the segment.py script, presseing c will capture an image while q will quit the program. 
+For using the segment.py script, pressing 'c' will capture an image while 'q' will quit the program. 
 Just right click on the generated overlay to save!
 
 The Jupyter Notebook can be accessed [here](https://colab.research.google.com/drive/1dPU-b7ISLplrhSSTcY6jrxpo7xWnfV_E?usp=sharing)
@@ -127,19 +125,6 @@ The Jupyter Notebook can be accessed [here](https://colab.research.google.com/dr
 ## Roadmap
 
 In the future more research will be done on instance segmentation and a notebook will be added on this topic as well
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 
 
@@ -153,18 +138,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+Samuel Morales - samuel_morales20@protonmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+Github: https://github.com/sam-morales/
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Ayoola Lafenwa - Creator of Pixellib]()
 
 
 
@@ -172,16 +154,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=flat-square
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=flat-square
-[forks-url]: https://github.com/github_username/repo/network/members
+[forks-url]: https://github.com/sam-morales/semantic-segmentation/network/members
 [stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=flat-square
-[stars-url]: https://github.com/github_username/repo/stargazers
+[stars-url]: https://github.com/sam-morales/semantic-segmentation/stargazers
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=flat-square
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
+[issues-url]: https://github.com/sam-morales/semantic-segmentation/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://www.linkedin.com/in/samuel-morales-lssgb/
 [product-screenshot]: images/screenshot.png
